@@ -1,0 +1,11 @@
+# Server API & AI
+flask
+transformers
+torch  
+
+# Web UI
+streamlit
+requests
+
+# Untuk kompatibilitas dan performa
+numpy
